@@ -224,7 +224,7 @@ int main() {
     // TODO give user score once they complete all questions
     // TODO make the list a double list
     // TODO implement save file.(docker server, mysql)
-
+ //hi
     ///(Unrelated)cool idea: make a checkInput() operator in a different .header and
     /// and make it take args like "check single digit", "check single word" etc.
 
